@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jswsq.github.io/soft</id>
-    <title>Gridea</title>
-    <updated>2021-06-11T20:04:22.724Z</updated>
+    <title>教师微社区</title>
+    <updated>2021-06-11T20:05:42.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jswsq.github.io/soft"/>
     <link rel="self" href="https://jswsq.github.io/soft/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>教师导航</subtitle>
     <logo>https://jswsq.github.io/soft/images/avatar.png</logo>
     <icon>https://jswsq.github.io/soft/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 教师微社区</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jswsq.github.io/soft/post/hello-gridea/</id>
